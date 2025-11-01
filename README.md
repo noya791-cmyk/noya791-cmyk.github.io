@@ -1,6 +1,5 @@
 # Noya Levy
 
-<img src="images/profile.jpg" width="160" style="border-radius: 50%; margin-bottom: 10px;" alt="Noya Levy portrait" />
 
 **MSc Student | Excellence Program in Life Sciences (ExCLS)**  
 Weizmann Institute of Science
